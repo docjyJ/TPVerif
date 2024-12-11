@@ -1,0 +1,22 @@
+------------------------------------------------------------------
+          Functions
+------------------------------------------------------------------
+                                                                                            Qed Alt-Ergo   KO
+------------------------------------------------------------------
+Function 'SameTab'                                 Success:  100%
+Properties    9 /    9                                                                      Qed Ergo   KO
+  SameTab_B1_ensures                                                                          1    1    -
+  SameTab_B2_ensures                                                                          1    1    -
+  SameTab_loop_assigns                                                                        1    -    -
+  SameTab_assigns                                                                             3    -    -
+  SameTab_loop_variant                                                                        2    -    -
+  SameTab_loop_invariant                                                                      2    -    -
+  SameTab_loop_invariant_2                                                                    1    1    -
+  SameTab_complete_B1_B2                                                                      1    -    -
+  SameTab_disjoint_B1_B2                                                                      1    -    -
+------------------------------------------------------------------
+      Success:   100%
+      Total  :     9 properties
+      Valid  :     9
+      Failed :     -
+------------------------------------------------------------------

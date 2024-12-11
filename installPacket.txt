@@ -1,0 +1,206 @@
+ apron-0.9.15-4.fc41.x86_64     Numerical abstract domain library
+ coq-8.18.0-10.fc41.x86_64      Proof management system
+ coq-core-8.18.0-10.fc41.x86_64 Core components of the coq proof management system
+ csdp-6.2.0-29.20181018git0dcf187.fc41.x86_64   C library for SemiDefinite Programming
+ csdp-tools-6.2.0-29.20181018git0dcf187.fc41.x86_64     Command line tools for working with CSDP
+ emacs-1:29.4-38.fc41.x86_64    GNU Emacs text editor
+ emacs-common-1:29.4-38.fc41.x86_64     Emacs common files
+ emacs-common-proofgeneral-4.5-9.20240912git1ffca70.fc41.noarch Emacs mode for standard interaction interface for proof assistants
+ emacs-proofgeneral-4.5-9.20240912git1ffca70.fc41.noarch        Compiled elisp files to run Proof General under GNU Emacs
+ emacsclient-1:29.4-38.fc41.x86_64      Remotely control GNU Emacs
+ flexiblas-3.4.4-3.fc41.x86_64  A BLAS/LAPACK wrapper library with runtime exchangeable backends
+ flexiblas-netlib-3.4.4-3.fc41.x86_64   FlexiBLAS wrapper library
+ flexiblas-openblas-openmp-3.4.4-3.fc41.x86_64  FlexiBLAS wrappers for OpenBLAS
+ flocq-4.2.0-2.fc41.x86_64      Formalization of floating point numbers for Coq
+ glpk-5.0-12.fc41.x86_64        GNU Linear Programming Kit
+ gmp-c++-1:6.3.0-2.fc41.x86_64  C++ bindings for the GNU MP arbitrary precision library
+ gmp-devel-1:6.3.0-2.fc41.x86_64        Development tools for the GNU MP arbitrary precision library
+ gtksourceview3-3.24.11-13.fc41.x86_64  Source code editing widget
+ info-7.1-3.fc41.x86_64 A stand-alone TTY-based reader for GNU texinfo documentation
+ libXaw-1.0.16-2.fc41.x86_64    X Athena Widget Set
+ libXmu-1.2.1-2.fc41.x86_64     X.Org X11 libXmu/libXmuu runtime libraries
+ libgccjit-14.2.1-3.fc41.x86_64 Library for embedding GCC inside programs and libraries
+ libgfortran-14.2.1-3.fc41.x86_64       Fortran runtime
+ libotf-0.9.16-5.fc41.x86_64    A Library for handling OpenType Font
+ libquadmath-14.2.1-3.fc41.x86_64       GCC __float128 shared support library
+ libtree-sitter-0.23.0-2.fc41.x86_64    Incremental parsing library for programming tools
+ libtree-sitter-java-0.21.0-2.fc41.x86_64       Java grammar for Tree-sitter
+ ocaml-5.2.0-3.fc41.x86_64      OCaml compiler and programming environment
+ ocaml-compiler-libs-5.2.0-3.fc41.x86_64        Compiler libraries for OCaml
+ ocaml-findlib-1.9.6-14.fc41.x86_64     Objective CAML package manager and build helper
+ ocaml-runtime-5.2.0-3.fc41.x86_64      OCaml runtime environment
+ ocaml-zarith-1.14-2.fc41.x86_64        OCaml interface to GMP
+ ocaml-zarith-devel-1.14-2.fc41.x86_64  Development files for ocaml-zarith
+ openblas-0.3.26-5.fc41.x86_64  An optimized BLAS library based on GotoBLAS2
+ openblas-openmp-0.3.26-5.fc41.x86_64   An optimized BLAS library based on GotoBLAS2, OpenMP version
+ ppl-1.2-34.fc41.x86_64 The Parma Polyhedra Library: a library of numerical abstractions
+ pplite-0.12-4.fc41.x86_64      Convex polyhedra library for abstract interpretation
+ prooftree-0.14-4.fc41.x86_64   Proof tree visualization for Proof General
+ suitesparse-7.7.0-2.fc41.x86_64        A collection of sparse matrix libraries
+ texlive-base-11:20230311-85.fc41.x86_64        TeX formatting system
+ why3-1.7.2-9.fc41.x86_64       Software verification platform
+
+
+ alt-ergo-2.3.3-22.fc41.x86_64  Automated theorem prover including linear arithmetic
+ apron-devel-0.9.15-4.fc41.x86_64       Development files for apron
+ at-spi2-atk-devel-2.54.0-1.fc41.x86_64 A GTK+ module that bridges ATK to D-Bus at-spi
+ at-spi2-core-devel-2.54.0-1.fc41.x86_64        Development files and headers for at-spi2-core
+ atk-devel-2.54.0-1.fc41.x86_64 Development files for the ATK accessibility toolkit
+ brotli-1.1.0-5.fc41.x86_64     Lossless compression algorithm
+ brotli-devel-1.1.0-5.fc41.x86_64       Lossless compression algorithm (development files)
+ bzip2-devel-1.0.8-19.fc41.x86_64       Libraries and header files for apps which will use bzip2
+ cairo-devel-1.18.2-1.fc41.x86_64       Development files for cairo
+ cairo-gobject-devel-1.18.2-1.fc41.x86_64       Development files for cairo-gobject
+ flamegraph-1.0-20.20241020git41fee1f.fc41.noarch       Stack trace visualizer
+ fontconfig-devel-2.15.0-8.fc41.x86_64  Font configuration and customization library
+ frama-c-29.0-8.fc41.x86_64     Framework for source code analysis of C software
+ freetype-devel-2.13.3-1.fc41.x86_64    FreeType development libraries and header files
+ fribidi-devel-1.0.15-2.fc41.x86_64     Libraries and include files for FriBidi
+ gdk-pixbuf2-devel-2.42.12-6.fc41.x86_64        Development files for gdk-pixbuf2
+ gi-docgen-fonts-2024.1-3.fc41.noarch   Metapackage providing fonts for gi-docgen output
+ glib2-devel-2.82.2-1.fc41.x86_64       A library of handy utility functions
+ glpk-devel-5.0-12.fc41.x86_64  Development headers and files for GLPK
+ graphite2-devel-1.3.14-16.fc41.x86_64  Files for developing with graphite2
+ gtk3-devel-3.24.43-2.fc41.x86_64       Development files for GTK+
+ gtksourceview3-devel-3.24.11-13.fc41.x86_64    Development files for gtksourceview3
+ harfbuzz-cairo-9.0.0-3.fc41.x86_64     Harfbuzz Cairo support library
+ harfbuzz-devel-9.0.0-3.fc41.x86_64     Development files for harfbuzz
+ libX11-devel-1.8.10-2.fc41.x86_64      Development files for libX11
+ libXau-devel-1.0.11-7.fc41.x86_64      Development files for libXau
+ libXcomposite-devel-0.4.6-4.fc41.x86_64        Development files for libXcomposite
+ libXcursor-devel-1.2.3-1.fc41.x86_64   Development files for libXcursor
+ libXdamage-devel-1.1.6-4.fc41.x86_64   Development files for libXdamage
+ libXext-devel-1.3.6-2.fc41.x86_64      X.Org X11 libXext development package
+ libXfixes-devel-6.0.1-4.fc41.x86_64    Development files for libXfixes
+ libXft-devel-2.3.8-7.fc41.x86_64       X.Org X11 libXft development package
+ libXi-devel-1.8.2-1.fc41.x86_64        X.Org X11 libXi development package
+ libXinerama-devel-1.1.5-7.fc41.x86_64  X.Org X11 libXinerama development package
+ libXrandr-devel-1.5.4-4.fc41.x86_64    X.Org X11 libXrandr development package
+ libXrender-devel-0.9.11-7.fc41.x86_64  X.Org X11 libXrender development package
+ libXtst-devel-1.2.5-1.fc41.x86_64      X.Org X11 libXtst development package
+ libblkid-devel-2.40.2-4.fc41.x86_64    Block device ID library
+ libcloudproviders-devel-0.3.5-5.fc41.x86_64    Development files for libcloudproviders
+ libdatrie-devel-0.2.13-10.fc41.x86_64  Development files for libdatrie
+ libepoxy-devel-1.5.10-8.fc41.x86_64    Development files for libepoxy
+ libev-devel-4.33-12.fc41.x86_64        Development headers for libev
+ libffi-devel-3.4.6-3.fc41.x86_64       Development files for libffi
+ libglvnd-core-devel-1:1.7.0-5.fc41.x86_64      Core development files for libglvnd
+ libglvnd-devel-1:1.7.0-5.fc41.x86_64   Development files for libglvnd
+ libicu-devel-74.2-2.fc41.x86_64        Development files for International Components for Unicode
+ libjpeg-turbo-devel-3.0.2-3.fc41.x86_64        Headers for the libjpeg-turbo library
+ libmount-devel-2.40.2-4.fc41.x86_64    Device mounting library
+ libpng-devel-2:1.6.40-4.fc41.x86_64    Development tools for programs to manipulate PNG image format files
+ libsodium-devel-1.0.20-2.fc41.x86_64   Development files for libsodium
+ libthai-devel-0.1.29-9.fc41.x86_64     Thai language support routines
+ libtiff-devel-4.6.0-6.fc41.x86_64      Development tools for programs which will use the libtiff library
+ libunwind-devel-1.8.0-5.fc41.x86_64    Development package for libunwind
+ libwebp-devel-1.4.0-4.fc41.x86_64      Development files for libwebp, a library for the WebP format
+ libxcb-devel-1.17.0-3.fc41.x86_64      Development files for libxcb
+ libxkbcommon-devel-1.7.0-4.fc41.x86_64 X.Org X11 XKB parsing development package
+ libyaml-devel-0.2.5-15.fc41.x86_64     Development files for LibYAML applications
+ mpfr-devel-4.2.1-5.fc41.x86_64 Development files for the MPFR library
+ ocaml-alt-ergo-lib-2.3.3-22.fc41.x86_64        Automated theorem prover library
+ ocaml-alt-ergo-parsers-2.3.3-22.fc41.x86_64    Parser library used by the Alt-Ergo SMT solver
+ ocaml-apron-0.9.15-4.fc41.x86_64       Ocaml interface to APRON
+ ocaml-apron-devel-0.9.15-4.fc41.x86_64 Development files for the Ocaml interface to APRON
+ ocaml-astring-0.8.5-26.fc41.x86_64     Alternative String module for OCaml
+ ocaml-astring-devel-0.8.5-26.fc41.x86_64       Development files for ocaml-astring
+ ocaml-bigarray-compat-1.1.0-17.fc41.x86_64     Compatibility library to use Stdlib.Bigarray when possible
+ ocaml-bigarray-compat-devel-1.1.0-17.fc41.x86_64       Development files for ocaml-bigarray-compat
+ ocaml-bos-0.2.1-22.fc41.x86_64 Basic OS interaction for OCaml
+ ocaml-bos-devel-0.2.1-22.fc41.x86_64   Development files for ocaml-bos
+ ocaml-cairo-2:0.6.4-14.fc41.x86_64     OCaml library for accessing cairo graphics
+ ocaml-cairo-devel-2:0.6.4-14.fc41.x86_64       Development files for ocaml-cairo
+ ocaml-camlidl-1.12-9.fc41.x86_64       Stub code generator and COM binding for Objective Caml
+ ocaml-camlidl-devel-1.12-9.fc41.x86_64 Development files for ocaml-camlidl
+ ocaml-cmdliner-1.3.0-4.fc41.x86_64     Declarative definition of command line interfaces for OCaml
+ ocaml-cmdliner-devel-1.3.0-4.fc41.x86_64       Development files for ocaml-cmdliner
+ ocaml-compiler-libs-janestreet-0.17.0-4.fc41.x86_64    OCaml compiler libraries repackaged
+ ocaml-compiler-libs-janestreet-devel-0.17.0-4.fc41.x86_64      Development files for ocaml-compiler-libs-janestreet
+ ocaml-csexp-1.5.2-13.fc41.x86_64       Parsing and printing of S-expressions in canonical form
+ ocaml-ctypes-0.23.0-1.fc41.x86_64      Combinators for binding to C libraries without writing any C
+ ocaml-ctypes-devel-0.23.0-1.fc41.x86_64        Development files for ocaml-ctypes
+ ocaml-dune-3.16.1-1.fc41.x86_64        Composable build system for OCaml and Reason
+ ocaml-dune-private-libs-3.16.1-1.fc41.x86_64   Private dune libraries
+ ocaml-dune-private-libs-devel-3.16.1-1.fc41.x86_64     Development files for ocaml-dune-private-libs
+ ocaml-dune-site-3.16.1-1.fc41.x86_64   Embed location information inside executables and libraries
+ ocaml-dune-site-devel-3.16.1-1.fc41.x86_64     Development files for ocaml-dune-site
+ ocaml-dyn-3.16.1-1.fc41.x86_64 Dynamic types
+ ocaml-dyn-devel-3.16.1-1.fc41.x86_64   Development files for ocaml-dyn
+ ocaml-fmt-0.9.0-18.fc41.x86_64 OCaml Format pretty-printer combinators
+ ocaml-fmt-devel-0.9.0-18.fc41.x86_64   Development files for ocaml-fmt
+ ocaml-fpath-0.7.3-23.fc41.x86_64       File paths for OCaml
+ ocaml-fpath-devel-0.7.3-23.fc41.x86_64 Development files for ocaml-fpath
+ ocaml-integers-0.7.0-16.fc41.x86_64    Various signed and unsigned integer types for OCaml
+ ocaml-integers-devel-0.7.0-16.fc41.x86_64      Development files for ocaml-integers
+ ocaml-lablgtk3-3.1.5-3.fc41.x86_64     OCaml interface to gtk3
+ ocaml-lablgtk3-devel-3.1.5-3.fc41.x86_64       Development files for ocaml-lablgtk3
+ ocaml-lablgtk3-sourceview3-3.1.5-3.fc41.x86_64 OCaml interface to gtksourceview3
+ ocaml-lablgtk3-sourceview3-devel-3.1.5-3.fc41.x86_64   Development files for ocaml-lablgtk3-sourceview3
+ ocaml-logs-0.7.0-22.fc41.x86_64        Logging infrastructure for OCaml
+ ocaml-logs-devel-0.7.0-22.fc41.x86_64  Development files for ocaml-logs
+ ocaml-lwt-5.7.0-13.fc41.x86_64 OCaml lightweight thread library
+ ocaml-lwt-devel-5.7.0-13.fc41.x86_64   Development files for ocaml-lwt
+ ocaml-menhir-20240715-1.fc41.x86_64    LR(1) parser generator for OCaml
+ ocaml-menhirlib-20240715-1.fc41.x86_64 Runtime library for parsers produced by Menhir
+ ocaml-menhirlib-devel-20240715-1.fc41.x86_64   Development files for ocaml-menhirlib
+ ocaml-mlgmpidl-1.3.0-11.fc41.x86_64    OCaml interface to GMP and MPFR libraries
+ ocaml-mlgmpidl-devel-1.3.0-11.fc41.x86_64      Development files for ocaml-mlgmpidl
+ ocaml-mlmpfr-4.2.1-6.fc41.x86_64       OCaml bindings for MPFR
+ ocaml-mlmpfr-devel-4.2.1-6.fc41.x86_64 Development files for ocaml-mlmpfr
+ ocaml-num-1.5-9.fc41.x86_64    Legacy Num library for arbitrary-precision integer and rational arithmetic
+ ocaml-num-devel-1.5-9.fc41.x86_64      Development files for ocaml-num
+ ocaml-ocamlgraph-2.1.0-9.fc41.x86_64   OCaml library for arc and node graphs
+ ocaml-ocamlgraph-devel-2.1.0-9.fc41.x86_64     Development files for ocaml-ocamlgraph
+ ocaml-ocplib-endian-1.2-18.fc41.x86_64 Functions to read/write int16/32/64 from strings, bigarrays
+ ocaml-ocplib-endian-devel-1.2-18.fc41.x86_64   Development files for ocaml-ocplib-endian
+ ocaml-ocplib-simplex-1:0.4.1-9.fc41.x86_64     Simplex algorithm for solving systems of linear inequalities
+ ocaml-ordering-3.16.1-1.fc41.x86_64    Element ordering
+ ocaml-ordering-devel-3.16.1-1.fc41.x86_64      Development files for ocaml-ordering
+ ocaml-parsexp-0.17.0-2.fc41.x86_64     S-expression parsing library
+ ocaml-parsexp-devel-0.17.0-2.fc41.x86_64       Development files for ocaml-parsexp
+ ocaml-pp-1.2.0-9.fc41.x86_64   Pretty printing library for OCaml
+ ocaml-pp-devel-1.2.0-9.fc41.x86_64     Development files for ocaml-pp
+ ocaml-ppx-derivers-1.2.1-38.fc41.x86_64        Deriving plugin registry
+ ocaml-ppx-derivers-devel-1.2.1-38.fc41.x86_64  Development files for ocaml-ppx-derivers
+ ocaml-ppx-deriving-6.0.2-6.fc41.x86_64 Type-driven code generation for OCaml
+ ocaml-ppx-deriving-devel-6.0.2-6.fc41.x86_64   Development files for ocaml-ppx-deriving
+ ocaml-ppx-deriving-yojson-3.9.0-1.fc41.x86_64  JSON codec generator for OCaml
+ ocaml-ppx-deriving-yojson-devel-3.9.0-1.fc41.x86_64    Development files for ocaml-ppx-deriving-yojson
+ ocaml-ppxlib-1:0.33.0-1.fc41.x86_64    Base library and tools for ppx rewriters
+ ocaml-ppxlib-devel-1:0.33.0-1.fc41.x86_64      Development files for ocaml-ppxlib
+ ocaml-psmt2-frontend-0.4.0-20.fc41.x86_64      Parser and typechecker for an extension of SMT-LIB 2
+ ocaml-re-1.11.0-9.fc41.x86_64  A regular expression library for OCaml
+ ocaml-re-devel-1.11.0-9.fc41.x86_64    Development files for ocaml-re
+ ocaml-rpm-macros-5.2.0-3.fc41.noarch   RPM macros for building OCaml packages
+ ocaml-rresult-0.7.0-19.fc41.x86_64     Result value combinators for OCaml
+ ocaml-rresult-devel-0.7.0-19.fc41.x86_64       Development files for ocaml-rresult
+ ocaml-sexplib-1:0.17.0-3.fc41.x86_64   Automated S-expression conversion
+ ocaml-sexplib-devel-1:0.17.0-3.fc41.x86_64     Development files for ocaml-sexplib
+ ocaml-sexplib0-0.17.0-2.fc41.x86_64    Definition of S-expressions and some base converters
+ ocaml-sexplib0-devel-0.17.0-2.fc41.x86_64      Development files for ocaml-sexplib0
+ ocaml-stdune-3.16.1-1.fc41.x86_64      Dune's unstable standard library
+ ocaml-unionfind-20220122-8.fc41.x86_64 OCaml implementations of the union-find data structure
+ ocaml-unionfind-devel-20220122-8.fc41.x86_64   Development files for ocaml-unionfind
+ ocaml-why3-1.7.2-9.fc41.x86_64 Software verification library for ocaml
+ ocaml-why3-devel-1.7.2-9.fc41.x86_64   Development files for using the ocaml-why3 library
+ ocaml-yaml-3.2.0-12.fc41.x86_64        Parse and generate YAML 1.1/1.2 files
+ ocaml-yaml-devel-3.2.0-12.fc41.x86_64  Development files for ocaml-yaml
+ ocaml-yojson-2.2.2-1.fc41.x86_64       An optimized parsing and printing library for the JSON format
+ ocaml-yojson-devel-2.2.2-1.fc41.x86_64 Development files for ocaml-yojson
+ ocaml-zip-1.12-1.fc41.x86_64   OCaml library for reading and writing zip, jar and gzip files
+ ocaml-zip-devel-1.12-1.fc41.x86_64     Development files for ocaml-zip
+ ocaml-zmq-5.3.0-4.fc41.x86_64  ZeroMQ bindings for OCaml
+ ocaml-zmq-devel-5.3.0-4.fc41.x86_64    Development files for ocaml-zmq
+ openpgm-devel-5.2.122-35.fc41.x86_64   Development files for openpgm
+ pango-devel-1.54.0-2.fc41.x86_64       Development files for pango
+ perl-Filter-2:1.64-512.fc41.x86_64     Perl source filters
+ perl-encoding-4:3.00-511.fc41.x86_64   Write your Perl script in non-ASCII or non-UTF-8
+ perl-open-1.13-512.fc41.noarch Perl pragma to set default PerlIO layers for input and output
+ pixman-devel-0.44.0-0.fc41.x86_64      Pixel manipulation library development package
+ redhat-display-fonts-4.0.3-12.fc41.noarch      Red Hat Display fonts
+ redhat-text-fonts-4.0.3-12.fc41.noarch Red Hat Text fonts
+ sysprof-capture-devel-47.1-1.fc41.x86_64       Development files for sysprof-capture static library
+ wayland-devel-1.23.0-2.fc41.x86_64     Development files for wayland
+ xorg-x11-proto-devel-2024.1-3.fc41.noarch      X.Org X11 Protocol headers
+ zeromq-devel-4.3.5-17.fc41.x86_64      Development files for zeromq
