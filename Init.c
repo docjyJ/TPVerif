@@ -7,7 +7,7 @@
 #define SIZE_MAX 1000
 
 /*@ requires R1: 0<n && n < SIZE_MAX;					// "n" doit être compris entre "0" et "SIZE_MAX"
-  @ requires R2: \valid(t+(0..n-1));					// "t" doit être un tableau de "n" éléments de l'adresse "t" à "t+n-1"
+  @ requires R2: \valid(t+(0..(n-1)));					// "t" doit être un tableau de "n" éléments de l'adresse "t" à "t+n-1"
   @ ensures E1: \forall integer k; 0<=k<n ==> t[k]==0;	// S'assure que tous les éléments de "t" sont égaux à "0" à la fin de la fonction
   @ assigns t[0..(n-1)];								// Cette fonction peut modifier tous les éléments de "t".
 */

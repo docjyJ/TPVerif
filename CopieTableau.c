@@ -9,8 +9,8 @@
 //Penser à mettre un commentaire en bout de ligne ACSL (comme pour les TPs précédents)
 
 /*@ requires R1: n>0;                                   // "n" doit être supérieur à "0"
-  @ requires R2: \valid(T1+(0..n-1));                   // "T1" doit être un tableau de "n" éléments de l'adresse "t" à "t+n-1"
-  @ requires R3: \valid(T2+(0..n-1));                   // "T2" doit être un tableau de "n" éléments de l'adresse "t" à "t+n-1"
+  @ requires R2: \valid(T1+(0..(n-1)));                 // "T1" doit être un tableau de "n" éléments de l'adresse "t" à "t+n-1"
+  @ requires R3: \valid(T2+(0..(n-1)));                 // "T2" doit être un tableau de "n" éléments de l'adresse "t" à "t+n-1"
   @ requires R4: \separated(T1+(0..n-1), T2+(0..n-1));  // "T1" et "T2" doivent pas se chevaucher dans la mémoire
   @ assigns T2[0..n-1];                                 // Cette fonction ne modifie tout les éléments de "T2"
   @ ensures \forall integer k; 0<=k<n ==> T1[k]==T2[k]; // Tout les éléments de "T1" seront égaux à "T2"
