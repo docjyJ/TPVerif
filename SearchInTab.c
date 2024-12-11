@@ -14,9 +14,9 @@ int Tab[SIZE];
 
 
 
-/*@ requires R1: SIZE > 0;                // "SIZE" doit être supérieur à "0"
-  //@ requires R2: \valid(Tab+(0..SIZE-1)); // "Tab" doit être un tableau valide
-  @ assigns \nothing;                     // Cette fonction ne modifie rien
+/*@ requires R1: SIZE > 0;                  // "SIZE" doit être supérieur à "0"
+  @ requires R2: \valid(Tab+(0..(SIZE-1))); // "Tab" doit être un tableau valide
+  @ assigns \nothing;                       // Cette fonction ne modifie rien
   @
   @ behavior B1:                                           // Séanrio 1
   @   assumes \exists integer k; 0<=k<SIZE && Tab[k]==Val; // Il existe un élément de "Tab" qui est égal à "Val"
